@@ -1,0 +1,8 @@
+.header-profile:hover > a {
+	background-color: var(--primary) !important;
+}
+
+.header-profile:hover > a > div h6,
+.header-profile:hover > a > div small {
+	color: #fff;
+}
